@@ -8,9 +8,11 @@
 
 ### Clase 02 Sab. 27-Ago-2022:
 * 1.2-Probabilidad y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%201%20-%202022%20-%20Probabilidad%20.pdf)
-* 1.5-Probabilidad [Cóodigo Python]
-* 1.1 Datos y Modelos [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%202%20-%202022-%20Datos%20y%20Modelos.pdf)
-* 1.1-Datos y Modelos [Código Python]
+* 1.3-Probabilidad [Cóodigo Python]
+* 1.4 Datos y Modelos [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%202%20-%202022-%20Datos%20y%20Modelos.pdf)
+* 1.5 Datos y Modelos [Código Python]
+* 1.5 Introducción al uso de la estadística [Video](https://www.youtube.com/watch?v=hODwSUX0kT4)
+* 1.5 Curso Abierto [Videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 
 ### Clase 03 Vie. 2-Sep-2022:
 * 3.1-Varias variables [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%203%20-%202022%20-%20Varias%20Variables.pdf)
@@ -27,3 +29,4 @@
 
 ### Clase 06 Sab. 10-Sep-2022:
 * 4.2 Visualización y Comunicación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%204%20-%202022%20-%20Visualizaci%C3%B3n%20y%20comunicaci%C3%B3n.pdf)
+* 4.3 Analizar Datos [Videos](https://www.youtube.com/watch?v=usdJgEwMinM)
