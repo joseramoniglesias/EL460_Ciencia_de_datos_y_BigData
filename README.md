@@ -13,11 +13,17 @@
 * 1.1-Datos y Modelos [Código Python]
 
 ### Clase 03 Vie. 2-Sep-2022:
-* 1.3-Varias variables [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%203%20-%202022%20-%20Varias%20Variables.pdf)
-* 1.3 Estadísticos y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%203%20-%202022-%20Estad%C3%ADsticos%20y%20Estad%C3%ADstica.pdf)
-* 1.3-Estimación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%203%20-%202022-%20Estimaci%C3%B3n.pdf)
-* 1.3 Entregable 1 [Co}ódigo Jupiter]
+* 3.1-Varias variables [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%203%20-%202022%20-%20Varias%20Variables.pdf)
+* 3.2 Estadísticos y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%203%20-%202022-%20Estad%C3%ADsticos%20y%20Estad%C3%ADstica.pdf)
+* 3.3 Estimación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%203%20-%202022-%20Estimaci%C3%B3n.pdf)
+* 3.4 Entregable 1 [Co}ódigo Jupiter]
 
 ### Clase 04 Sab. 3-Sep-2022:
-* 2.1-Varias variables [Código Python]
-* 2.1-Estadísticos [Código Python]
+* 3.1-Varias variables [Código Python]
+* 3.1-Estadísticos [Código Python]
+
+### Clase 05 Vie. 09-Sep-2022:
+* 4.1 Test de Hipótesis [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%204%20-%202022%20-%20Test%20de%20Hip%C3%B3tesis.pdf)}
+
+### Clase 06 Sab. 10-Sep-2022:
+* 4.2 Visualización y Comunicación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%204%20-%202022%20-%20Visualizaci%C3%B3n%20y%20comunicaci%C3%B3n.pdf)
