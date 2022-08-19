@@ -16,6 +16,7 @@
 * 1.3-Varias variables [PPT]
 * 1.3 Estadísticos y Estadística [PPT]
 * 1.3-Estimación [PPT]
+* 1.3 Entregable 1 [Co}ódigo Jupiter]
 
 ### Clase 04 Sab. 3-Sep-2022:
 * 2.1-Varias variables [Código Python]
