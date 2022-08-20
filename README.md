@@ -5,12 +5,13 @@
 ### Clase 01 Vi 26-Agor 2022:
 * 01. Programa del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_Datos_2/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
 * 01. Introducción del Curso [PDF](https://https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%201%20-%202022%20-%20Intro.pdf)
+* 01. Introducción [C+odigo Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/00%20Inicios%20en%20Python.ipynb)
 
 ### Clase 02 Sab. 27-Ago-2022:
 * 1.2-Probabilidad y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%201%20-%202022%20-%20Probabilidad%20.pdf)
-* 1.3-Probabilidad [Cóodigo Python]
+* 1.3-Probabilidad [Cóodigo Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/01_Probabilidad.ipynb)
 * 1.4 Datos y Modelos [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%202%20-%202022-%20Datos%20y%20Modelos.pdf)
-* 1.5 Datos y Modelos [Código Python]
+* 1.5 Datos y Modelos [Código Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/02_Datos_y_Modelos.ipynb)
 * 1.5 Introducción al uso de la estadística [Video](https://www.youtube.com/watch?v=hODwSUX0kT4)
 * 1.5 Curso Abierto [Videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 
