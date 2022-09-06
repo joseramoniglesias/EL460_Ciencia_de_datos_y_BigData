@@ -22,11 +22,11 @@
 * 3.1-Varias variables [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%203%20-%202022%20-%20Varias%20Variables.pdf)
 * 3.2 Estadísticos y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%203%20-%202022-%20Estad%C3%ADsticos%20y%20Estad%C3%ADstica.pdf)
 * 3.3 Estimación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%203%20-%202022-%20Estimaci%C3%B3n.pdf)
-* 3.4 Entregable 1 [Co}ódigo Jupiter](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/Entregable%20-%20Parte%201.ipynb)
+* 3.4 Entregable 1 [Co}ódigo Jupiter](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Entregable_Parte_1.ipynb)
 
 ### Clase 04 Sab. 3-Sep-2022:
-* 3.1-Varias variables [Código Python]
-* 3.1-Estadísticos [Código Python]
+* 3.1-Varias variables [Código Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Varias_Variables.ipynb)
+* 3.1-Estadísticos [Código Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Estadísticos.ipynb)
 
 ### Clase 05 Vie. 09-Sep-2022:
 * 4.1 Test de Hipótesis [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/Clase%204%20-%202022%20-%20Test%20de%20Hip%C3%B3tesis.pdf)}
