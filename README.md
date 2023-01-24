@@ -24,7 +24,7 @@
 * 3.1-Varias variables [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Varias_Variables.pdf))
 * 3.2 Estadísticos y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Estad%C3%ADsticos_y_Estad%C3%ADstica.pdf)
 * 3.3 Estimación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Estimaci%C3%B3n.pdf)
-* 3.4 Entregable 1 [Jupiter](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Entregable_Parte_1.ipynb)
+* 3.4 Entregable 1 [Jupiter](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Entregable%20-%20Parte%201.ipynb)
 
 ### Clase 04 Sab. 25-Feb-2023:
 * 3.1-Varias variables [Código Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Varias_Variables.ipynb)
