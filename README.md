@@ -41,8 +41,10 @@
 
 ## Semana 4
 ### Clase 7 Vie 10-Mar 2023:
-* Tipos_datos_y_operaciones_para_curación [PPTX]
-* Datos_faltantes [PPTX]
+* Tipos_datos_y_operaciones_para_curación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Tipos_datos_y_operaciones_para_curaci%C3%B3n.pdf)
+* Datos_faltantes [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Datos_faltantes.pdf)
+* Trabajo en clase [Python]
+* Trabajo en clase [Python]
 * Trabajo en clase [Python]
 
 ### Clase 8 Sáb 11-Mar 2023:
