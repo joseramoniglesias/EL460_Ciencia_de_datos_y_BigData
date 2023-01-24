@@ -38,6 +38,8 @@
 ### Clase 06 Sab. 04-Mar-2023:
 * Tableau
 * 4.3 Analizar Datos [Videos](https://www.youtube.com/watch?v=usdJgEwMinM)
+* Trabajo en Python [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED_01_Hello_World_Dash.ipynb)
+* Trabajo en Python [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED_01_Ejemplo_Dashboard_PrediccionCovid.ipynb)
 
 ## Semana 4
 ### Clase 7 Vie 10-Mar 2023:
