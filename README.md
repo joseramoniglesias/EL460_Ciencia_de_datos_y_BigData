@@ -5,10 +5,10 @@
 ## Semana 1
 ### Clase 01 Vi 17-Feb-2023:
 * 01. Programa del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_Datos_2/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
-* 01. Introducción del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Intro.pdf))
+* 01. Introducción del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Intro.pdf)
 * 01. Introducción [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Inicios_en_python.ipynb)
-* 1.2-Probabilidad y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Probabilidad%20.pdf))
-* 1.4 Datos y Modelos [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Datos_y_Modelos.pdf))
+* 1.2-Probabilidad y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Probabilidad%20.pdf)
+* 1.4 Datos y Modelos [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Datos_y_Modelos.pdf)
 * 1.2 Descargar Anaconda [Internet](https://www.anaconda.com/)
 * 1.2 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
 * 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
