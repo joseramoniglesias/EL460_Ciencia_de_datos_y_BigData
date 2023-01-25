@@ -45,23 +45,27 @@
 ### Clase 7 Vie 10-Mar 2023:
 * Tipos_datos_y_operaciones_para_curación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Tipos_datos_y_operaciones_para_curaci%C3%B3n.pdf)
 * Datos_faltantes [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Datos_faltantes.pdf)
-* Trabajo en clase [Python]
-* Trabajo en clase [Python]
-* Trabajo en clase [Python]
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED02_datos_faltantes.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Combinaci%C3%B3n_de_datasets.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Exploracion.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_SQL.ipynb)
 
 ### Clase 8 Sáb 11-Mar 2023:
 * Taller y ejercicios en clase [PDF]
 
 ## Semana 5
 ### Clase 9 Vié  17-Mar 2023:
-* Transformaciones [PPTX]
-* Sesgo [PPTX]
-* Encodings y PCA [PPTX]
-* Reproducibilidad [PPTX]
-* Trabajo en clase [Python]
+* Transformaciones [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Transformaciones.pdf)
+* Sesgo [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Sesgo.pdf)
+* Encodings y PCA [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_%20Encodings%20y%20PCA.pdf)
+* Reproducibilidad [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Reproducibilidad.pdf)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Combinacion_por_coordenadas_%5BOpcional%5D_.ipynb)
  
 ### Clase 10 Sab 18-Mar 2023:
 * Taller y ejercicios en clase [PDF]
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Encodings_para_texto_y_LDA_%5BOpcional%5D.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Encodings_y_PCA_en_Melbourne.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_PCA_Ejemplo_de_juguete.ipynb)
 
 ## Semana 6
 ### Clase 11 Vie 24-Mar 2023:
