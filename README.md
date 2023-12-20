@@ -1,5 +1,5 @@
 # Electiva-EL460 Procesamiento de Señales II
-# Curso de Ciencia de datos 2 2023-1
+# Curso de Ciencia de datos 2 2024-1
 ## Planificación del Curso por Días
 
 ## Semana 1
