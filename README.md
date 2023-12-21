@@ -19,13 +19,13 @@
 * 2.4 Curso Abierto [Videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 
 ## Semana 2
-### Clase 03 Vie. 24-Feb-2023:
+### Clase 03 Vie. 16-Feb-2024:
 * 3.1-Project Understanding [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/EL460_Chapter3_Project_Understanding_v2_2024-1.pdf))
 * 3.2 Estadísticos y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Estad%C3%ADsticos_y_Estad%C3%ADstica.pdf)
 * 3.3 Estimación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Estimaci%C3%B3n.pdf)
 * 3.4 Entregable 1 [Jupiter](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Entregable%20-%20Parte%201.ipynb)
 
-### Clase 04 Sab. 25-Feb-2023:
+### Clase 04 Sab. 17-Feb-2024:
 * 3.1-Varias variables [Código Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Varias_Variables.ipynb)
 * 3.1-Estadísticos [Código Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Estadísticos.ipynb)
 
