@@ -8,12 +8,15 @@
 * 01. Introducción del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Intro.pdf)
 * 01. Introducción [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Inicios_en_Python.ipynb)
 * 1.2-Probabilidad y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Probabilidad%20.pdf)
-* 1.4 Datos y Modelos [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Datos_y_Modelos.pdf)
-* 1.2 Descargar Anaconda [Internet](https://www.anaconda.com/)
-* 1.2 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
-* 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
+* 1.3 Datos y Modelos [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Datos_y_Modelos.pdf)
+* 1.4 Descargar Anaconda [Internet](https://www.anaconda.com/)
+* 1.5 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
+* 1.6 Descargar KNIME [Internet](https://www.knime.com/downloads)
+))
+* 
 
 ### Clase 02 Sab. 18-Feb-2023:
+![image](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/assets/38440709/4710489b-ebd1-4d64-8ac9-3fdd3fd816bd)
 * 1.3-Probabilidad [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Probabilidad.ipynb)
 * 1.5 Datos y Modelos [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Datos_y_Modelos.ipynb)
 * 1.5 Introducción al uso de la estadística [Video](https://www.youtube.com/watch?v=hODwSUX0kT4)
