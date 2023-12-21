@@ -13,14 +13,14 @@
 * 1.6 Upload KNIME [Internet](https://www.knime.com/downloads)
 
 ### Clase 02 Sab. 10-Feb-2024:
-* 1.7-Practical Data Analysis: An Example [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Probabilidad.ipynb)
-* 1.5 Prctical Data Analysis: An Example [KNIME](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Ejercicios_KNIME/Introduction_Exercise.knwf)
-* 1.5 Introducción al uso de la estadística [Video](https://www.youtube.com/watch?v=hODwSUX0kT4)
-* 1.5 Curso Abierto [Videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+* 2.1-Practical Data Analysis: An Example [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Probabilidad.ipynb)
+* 2.2 Prctical Data Analysis: An Example [KNIME](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Ejercicios_KNIME/Introduction_Exercise.knwf)
+* 2.3 Introducción al uso de la estadística [Video](https://www.youtube.com/watch?v=hODwSUX0kT4)
+* 2.4 Curso Abierto [Videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 
 ## Semana 2
 ### Clase 03 Vie. 24-Feb-2023:
-* 3.1-Varias variables [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Varias_Variables.pdf))
+* 3.1-Project Understanding [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/EL460_Chapter3_Project_Understanding_v2_2024-1.pdf))
 * 3.2 Estadísticos y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Estad%C3%ADsticos_y_Estad%C3%ADstica.pdf)
 * 3.3 Estimación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Estimaci%C3%B3n.pdf)
 * 3.4 Entregable 1 [Jupiter](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Entregable%20-%20Parte%201.ipynb)
