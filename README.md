@@ -5,7 +5,7 @@
 ## Semana 1
 ### Clase 01 Vi 17-Feb-2023:
 * 01. Programa del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_Datos_2/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
-* 01. Introducción del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Intro.pdf)
+* 01. Introducción del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/EL460_Chapter1_Introduction_v2_2024_1.pdf)
 * 01. Introducción [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Inicios_en_Python.ipynb)
 * 1.2-Probabilidad y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Probabilidad%20.pdf)
 * 1.3 Datos y Modelos [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Datos_y_Modelos.pdf)
