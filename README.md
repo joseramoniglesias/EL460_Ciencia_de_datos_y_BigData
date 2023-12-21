@@ -13,8 +13,8 @@
 * 1.6 Upload KNIME [Internet](https://www.knime.com/downloads)
 
 ### Clase 02 Sab. 10-Feb-2024:
-* 1.3-Probabilidad [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Probabilidad.ipynb)
-* 1.5 Datos y Modelos [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Datos_y_Modelos.ipynb)
+* 1.7-Practical Data Analysis: An Example [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Probabilidad.ipynb)
+* 1.5 Prctical Data Analysis: An Example [KNIME](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/KNIME/Introduction_Exercise.knwf)
 * 1.5 Introducción al uso de la estadística [Video](https://www.youtube.com/watch?v=hODwSUX0kT4)
 * 1.5 Curso Abierto [Videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 
