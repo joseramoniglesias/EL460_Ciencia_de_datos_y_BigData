@@ -3,19 +3,16 @@
 ## Planificación del Curso por Días
 
 ## Semana 1
-### Clase 01 Vi 17-Feb-2023:
+### Clase 01 Vi 9-Feb-2024:
 * 01. Programa del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_Datos_2/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
-* 01. Introducción [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Inicios_en_Python.ipynb)
-* 1.2-Introducción [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/EL460_Chapter1_Introduction_v2_2024_1.pdf)
-* 1.3 KNIME Analytics Platform [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/EL460_AppendixB_KNIME_v2_2024-1.pdf)
-* 1.4 Descargar Anaconda [Internet](https://www.anaconda.com/)
+* 01. Introduction to Python [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Inicios_en_Python.ipynb)
+* 1.2-Introduction to Data Science [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/EL460_Chapter1_Introduction_v2_2024_1.pdf)
+* 1.3 KNIME Overview [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/EL460_AppendixB_KNIME_v2_2024-1.pdf)
+* 1.4 Upload Anaconda [Internet](https://www.anaconda.com/)
 * 1.5 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
-* 1.6 Descargar KNIME [Internet](https://www.knime.com/downloads)
-))
-* 
+* 1.6 Upload KNIME [Internet](https://www.knime.com/downloads)
 
-### Clase 02 Sab. 18-Feb-2023:
-![image](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/assets/38440709/4710489b-ebd1-4d64-8ac9-3fdd3fd816bd)
+### Clase 02 Sab. 10-Feb-2024:
 * 1.3-Probabilidad [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Probabilidad.ipynb)
 * 1.5 Datos y Modelos [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Datos_y_Modelos.ipynb)
 * 1.5 Introducción al uso de la estadística [Video](https://www.youtube.com/watch?v=hODwSUX0kT4)
