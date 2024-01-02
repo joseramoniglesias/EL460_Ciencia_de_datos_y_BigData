@@ -30,18 +30,18 @@
 * 3.1-Estadísticos [Código Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Estadísticos.ipynb)
 
 ## Semana 3
-### Clase 05 Vie. 03-Mar-2023:
+### Clase 05 Vie. 23-Feb-2024:
 * 4.1 Test de Hipótesis [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Test_de_Hip%C3%B3tesis.pdf)
 * 4.2 Visualización y Comunicación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Visualización_y_comunicación.pdf)
 
-### Clase 06 Sab. 04-Mar-2023:
+### Clase 06 Sab. 24-Feb-2024:
 * Tableau
 * 4.3 Analizar Datos [Videos](https://www.youtube.com/watch?v=usdJgEwMinM)
 * Trabajo en Python [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED_01_Hello_World_Dash.ipynb)
 * Trabajo en Python [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED_01_Ejemplo_Dashboard_PrediccionCovid.ipynb)
 
 ## Semana 4
-### Clase 7 Vie 10-Mar 2023:
+### Clase 7 Vie 1-Mar 2024:
 * Tipos_datos_y_operaciones_para_curación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Tipos_datos_y_operaciones_para_curaci%C3%B3n.pdf)
 * Datos_faltantes [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Datos_faltantes.pdf)
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED02_datos_faltantes.ipynb)
@@ -49,69 +49,69 @@
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Exploracion.ipynb)
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_SQL.ipynb)
 
-### Clase 8 Sáb 11-Mar 2023:
+### Clase 8 Sáb 2-Mar 2024:
 * Taller y ejercicios en clase [PDF]
 
 ## Semana 5
-### Clase 9 Vié  17-Mar 2023:
+### Clase 9 Vié  8-Mar 2024:
 * Transformaciones [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Transformaciones.pdf)
 * Sesgo [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Sesgo.pdf)
 * Encodings y PCA [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_%20Encodings%20y%20PCA.pdf)
 * Reproducibilidad [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Reproducibilidad.pdf)
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Combinacion_por_coordenadas_%5BOpcional%5D_.ipynb)
  
-### Clase 10 Sab 18-Mar 2023:
+### Clase 10 Sab 9-Mar 2024:
 * Taller y ejercicios en clase [PDF]
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Encodings_para_texto_y_LDA_%5BOpcional%5D.ipynb)
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Encodings_y_PCA_en_Melbourne.ipynb)
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_PCA_Ejemplo_de_juguete.ipynb)
 
 ## Semana 6
-### Clase 11 Vie 24-Mar 2023:
+### Clase 11 Vie 15-Mar 2024:
 * Primer Parcial.
 * 
-### Clase 12 Sab 25-Mar-2023:
+### Clase 12 Sab 16-Mar-2024:
 * Primer Parcial.
 
 ## Semana 7
-### Clase 13 Vie 31-Abr 2023:
+### Clase 13 Vie 22-Mar 2024:
 * Introducción a Aprendizaje NO Supervisado [PPTX]
 * Sistemas de Recomendación [PPTX]
 * Trabajo en clase [Python]
 
-### Clase 14 Sab 1-Abr 2023:
+### Clase 14 Sab 23-Mar 2024:
 * Taller y ejercicios en clase [PDF] 
 
 ## Semana 8
-### Clase 15 Vier 14-Abr 2023:
+### Clase 15 Vier 5-Abr 2024:
 * Aprendizaje Semi-supervisado [PPTX]
 * Trabajo en clase [Python]
 
-### Clase 16 Sab 15-Abr 2023:
+### Clase 16 Sab 6-Abr 2024:
 * Taller y ejercicios en clase [PDF]
 
 ## Semana 9
-### Clase 17 Vie 21-Abr 2023:
+### Clase 17 Vie 12-Abr 2024:
 * Embeddings [PPTX]
 * Reglas de Asociacion [PPTX]
 * Trabajo en clase [Python]
 
-### Clase 18 Sab 22-Abr 2023:
+### Clase 18 Sab 13-Abr 2024:
 * Taller y ejercicios en clase [PDF]
  
 ## Semana 10
-### Clase 19 Vie 28-Abr 2023:
+### Clase 19 Vie 19-Abr 2024:
 * Análisis de Redes Sociales [PPTX]
 * Trabajo en clase [Python]
 
-### Clase 20 Sab. 29-Abr-2023:
+### Clase 20 Sab. 20-Abr-2024:
 * Taller y ejercicios en clase [PDF]
 
 ## Semana 11
-### Clase 21 Vie. 5-Mayo-2023:
+### Clase 21 Vie. 3-Mayo-2024:
 * Segundo Parcial.
 * 
-### Clase 22 Sab. 6-Mayo-2023:
+### Clase 22 Sab. 4-Mayo-2024:
 * Segundo Parcial.
 
 ## Semana 12
