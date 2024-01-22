@@ -11,6 +11,7 @@
 * 1.4 Upload Anaconda [Internet](https://www.anaconda.com/)
 * 1.5 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
 * 1.6 Upload KNIME [Internet](https://www.knime.com/downloads)
+* 1.7 AWS SageMaker Studio Lab [Internet] (https://studiolab.sagemaker.aws/)
 
 ### Clase 02 Sab. 10-Feb-2024:
 * 2.1-Practical Data Analysis: An Example [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Probabilidad.ipynb)
