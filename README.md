@@ -11,46 +11,43 @@
 * 1.4 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
 * 1.5 AWS SageMaker Studio Lab [Internet] (https://studiolab.sagemaker.aws/)
 
-### Clase 2 Sáb 10-Ago 2024:
-* 2.1-Practical Data Analysis: An Example [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Probabilidad.ipynb)
-* 2.2 Prctical Data Analysis: An Example [KNIME](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Ejercicios_KNIME/Introduction_Exercise.knwf)
+### Clase 2 Sáb 08-Feb 2025:
+* 2.1-Extracción de Conocimiento I [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap01_Introduction%20to%20Data%20Science/Lecture/EL460_01_Extraccion_de_conocimiento_Parte1.pdf)
+* 2.2 Extracción de Conocimiento II [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap01_Introduction%20to%20Data%20Science/Lecture/EL460_01_Extraccion_de_conocimiento_Parte2.pdf)
 * 2.3 Introducción al uso de la estadística [Video](https://www.youtube.com/watch?v=hODwSUX0kT4)
 * 2.4 Curso Abierto [Videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+* 2.5 BigData hdf5 código enla carpeta notebook
 
 ## Semana 2
-### Clase 3 Vie 16-Ago 2024:
-* 3.1-Project Understanding [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/EL460_Chapter3_Project_Understanding_v2_2024-1.pdf))
-* 3.2 Estadísticos y Estadística [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Estad%C3%ADsticos_y_Estad%C3%ADstica.pdf)
-* 3.3 Estimación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Estimaci%C3%B3n.pdf)
-* 3.4 Entregable 1 [Jupiter](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Entregable%20-%20Parte%201.ipynb)
+### Clase 3 Vie 14-Feb 2025:
+* 3.1-Probabilidad y Estadísrica [PPT]()
+* 3.2 Datos y Modelos [PPTX]()
+* 3.3 Códigos en la Carpeta notebook
 
-### Clase 4 Sáb 17-Ago 2024:
-* 3.1-Varias variables [Código Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Varias_Variables.ipynb)
-* 3.1-Estadísticos [Código Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED2_Estadísticos.ipynb)
-
+### Clase 4 Sáb 15-Feb 2025:
+* 3.1- Bases de Datos Relacionales [Codigo]
+* 3.2 Código en la Carpeta Notebook
+  
 ## Semana 3
-### Clase 5 Vie 23-Ago 2024:
-* 4.1 Test de Hipótesis [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Test_de_Hip%C3%B3tesis.pdf)
-* 4.2 Visualización y Comunicación [PPT](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Presentaciones/CIED01_Visualización_y_comunicación.pdf)
-
-### Clase 6 Sáb 24-ago 2024:
-* Tableau
-* 4.3 Analizar Datos [Videos](https://www.youtube.com/watch?v=usdJgEwMinM)
-* Trabajo en Python [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED_01_Hello_World_Dash.ipynb)
-* Trabajo en Python [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_01/Pit%C3%B3n/CIED_01_Ejemplo_Dashboard_PrediccionCovid.ipynb)
+### Clase 5 Vie 21-Feb 2025:
+* 4.1 Varias Variables [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_01_Varias_Variables_2025.pdf)
+* 4.2 Estadísticos y Estadística [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_01_Estad%C3%ADsticos_y_Estad%C3%ADstica_2025.pdf)
+* 4.3 Estimación [](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_01_Estimaci%C3%B3n_2025.pdf)
+* 4.4 Códigos en la Carpeta Notebook
+  
+### Clase 6 Sáb 22-Feb 2025:
+* 4.5 Trabajo con PostgreSQL
 
 ## Semana 4
-### Clase 7 Vie 30-Ago 2024:
-* Tipos_datos_y_operaciones_para_curación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Tipos_datos_y_operaciones_para_curaci%C3%B3n.pdf)
-* Datos_faltantes [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Datos_faltantes.pdf)
-* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED02_datos_faltantes.ipynb)
-* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Combinaci%C3%B3n_de_datasets.ipynb)
-* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Exploracion.ipynb)
-* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_SQL.ipynb)
+### Clase 7 Vie 28-Feb 2025:
+* 4.6 Test de Hipótesis [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_Test%20de%20Hip%C3%B3tesis_2025.pdf)
+* 4.7 Visualización y Comunicación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_Visualizaci%C3%B3n_y_comunicaci%C3%B3n_2025.pdf)
+* 4.8 Códigos en la Carpeta Notebook
 
 ### Clase 8 Sáb 31-Ago 2024:
-* Taller y ejercicios en clase [PDF]
-
+* 4.9 Fundamentos de Computo en la Nuve [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_Fundamentos_de_Computo_en_Nube_2025.pdf)
+* 4.10 Flujo de Desarrollo  [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_presentacion_devops_2025.pdf)
+  
 ## Semana 5
 ### Clase 9 Vié 06-Sep 2024:
 * Transformaciones [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Transformaciones.pdf)
