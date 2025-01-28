@@ -44,7 +44,7 @@
 * 4.7 Visualización y Comunicación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_Visualizaci%C3%B3n_y_comunicaci%C3%B3n_2025.pdf)
 * 4.8 Códigos en la Carpeta Notebook
 
-### Clase 8 Sáb 31-Ago 2024:
+### Clase 8 Sáb 1_Mar 2025:
 * 4.9 Fundamentos de Computo en la Nuve [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_Fundamentos_de_Computo_en_Nube_2025.pdf)
 * 4.10 Flujo de Desarrollo  [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_presentacion_devops_2025.pdf)
   
