@@ -70,86 +70,85 @@
 * Primer Parcial.
 
 ## Semana 7
-### Clase 13 Vie 20-Sep 2024:
+### Clase 13 Vie 21-Mar 2025:
 * Introducción a Aprendizaje NO Supervisado [PPTX]
 * Sistemas de Recomendación [PPTX]
 * Trabajo en clase [Python]
 
-### Clase 14 Sab 21-Sep 2024:
+### Clase 14 Sab 22-Mar 2025:
 * Taller y ejercicios en clase [PDF] 
 
 ## Semana 8
-### Clase 15 Vier 27-Sep 2024:
+### Clase 15 Vier 28-Mar 2025:
 * Aprendizaje Semi-supervisado [PPTX]
 * Trabajo en clase [Python]
 
-### Clase 16 Sab 28-Sep 2024:
+### Clase 16 Sab 29-Mar 2025:
 * Taller y ejercicios en clase [PDF]
 
 ## Semana 9
-### Clase 17 Vie 04-Oct 2024:
+### Clase 17 Vie 04-Abr 2025:
 * Embeddings [PPTX]
 * Reglas de Asociacion [PPTX]
 * Trabajo en clase [Python]
 
-### Clase 18 Sab 05-Oct 2024:
+### Clase 18 Sab 05-Abr 2025:
 * Taller y ejercicios en clase [PDF]
  
 ## Semana 10
-### Clase 19 Vie 11-Oct 2024:
+### Clase 19 Vie 11-Abr 2025:
 * Análisis de Redes Sociales [PPTX]
 * Trabajo en clase [Python]
 
-### Clase 20 Sab. 12-Oct 2024:
+### Clase 20 Sab. 12-Abr 2025:
 * Taller y ejercicios en clase [PDF]
 
 ## Semana 11
-### Clase 21 Vie. 18-Oct 2024:
+### Clase 21 Vie. 25-Abr 2025:
 * Segundo Parcial.
 * 
-### Clase 22 Sab. 19-Oct 2024:
+### Clase 22 Sab. 26-Abr 2025:
 * Segundo Parcial.
 
 ## Semana 12
-### Clase 23 Vie. 25-Oct 2024:
+### Clase 23 Vie. 09-May 2025:
 * Clustering. [PPTX]
 * Trabajo en clase [Python]
 * 
-### Clase 24 Sab. 26-Oct 2024:
+### Clase 24 Sab. 10-May 2025:
 * Taller y ejercicios en clase [PDF]
 
 ## Semana 13
-### Clase 25 Vie. 01-Nov 2024:
+### Clase 25 Vie. 16-May 2025:
 * Aprendizaje Supervisado I [PPTX]
 * Trabajo en clase [Python]
 
-### Clase 26 Sab. 02-Nov 2024:
+### Clase 26 Sab. 17-May 2025:
 * Taller y ejercicios en clase [PDF]
 
-## Semana 14
-### Clase 27 Vie. 08-Nov 2024:
+## Semana 14 Vie. 23-May 2025:
 * Aprendizaje Supervisado II [PPTX]
 * Trabajo en clase [Python]
 
-### Clase 28 Sab. 09-Nov 2024:
+### Clase 28 Sab. 24-May 2025:
 * Taller y ejercicios en clase [PDF]
 
 ## Semana 15
-### Clase 29 Vie. 15-Nov 2024:
+### Clase 29 Vie. 30-May 2025:
 * Aprendizaje Supervisado III [PPTX]
 * Trabajo en clase [Python]
 *
-### Clase 30 Sab. 16-Nov 2024:
+### Clase 30 Sab. 31-May 2025:
 * Taller y ejercicios en clase [PDF]
 
 ## Semana 16
-### Clase 31 Vie. 22-Nov 2024:
+### Clase 31 Vie. 06-Jun 2025:
 * Aprendizaje Supervisado IV [PPTX]
 * Trabajo en clase
 
-### Clase 32 Sab. 23-Nov-2024:
+### Clase 32 Sab. 07-Jun-2025:
 * Presentación Proyecto Final
 _______________________________________________________
 
-Actualizado el 30-07-2024
+Actualizado el 29-01-2025
 
