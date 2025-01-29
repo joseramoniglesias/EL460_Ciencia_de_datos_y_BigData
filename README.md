@@ -1,5 +1,4 @@
-# Electiva-EL460 Procesamiento de Señales II
-# Curso de Ciencia de datos y BigData 2025-1
+# Electiva-EL460 Ciencia de datos y BigData 2025-1
 ## Planificación del Curso por Días
 
 ## Semana 1
