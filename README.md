@@ -36,7 +36,9 @@
 * 4.4 Códigos en la Carpeta Notebook
   
 ### Clase 6 Sáb 22-Feb 2025:
-* 4.5 Trabajo con PostgreSQL
+* 4.5 Tipos de Datos y Operaciones para Curación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap03_An%C3%A1lisis_y_Curaci%C3%B3n_Datos/Presentaciones/EL460_02_Tipos_datos_y_operaciones_para_curaci%C3%B3n_2025.pdf)
+* 4.6 Datos Faltantes [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap03_An%C3%A1lisis_y_Curaci%C3%B3n_Datos/Presentaciones/EL460_02_Datos_faltantes_2025.pdf)
+* 4.7 Trabajo con PostgreSQL
 
 ## Semana 4
 ### Clase 7 Vie 28-Feb 2025:
@@ -50,24 +52,22 @@
 * 4.11 Desarrollo API Carpeta Notebook
   
 ## Semana 5
-### Clase 9 Vié 06-Sep 2024:
+### Clase 9 Vié 07-Mar 2025:
 * Transformaciones [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Transformaciones.pdf)
 * Sesgo [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Sesgo.pdf)
 * Encodings y PCA [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_%20Encodings%20y%20PCA.pdf)
 * Reproducibilidad [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Presentaciones/CIED02_Reproducibilidad.pdf)
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Combinacion_por_coordenadas_%5BOpcional%5D_.ipynb)
  
-### Clase 10 Sab 07-Sep 2024:
+### Clase 10 Sab 08-Mar 2025:
 * Taller y ejercicios en clase [PDF]
-* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Encodings_para_texto_y_LDA_%5BOpcional%5D.ipynb)
-* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Encodings_y_PCA_en_Melbourne.ipynb)
-* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_PCA_Ejemplo_de_juguete.ipynb)
+* Trabajo en clase [Python]
 
 ## Semana 6
-### Clase 11 Vie 13-Sep 2024:
+### Clase 11 Vie 14-Mar 2025:
 * Primer Parcial.
 * 
-### Clase 12 Sab 14-Sep-2024:
+### Clase 12 Sab 15-Mar-2025:
 * Primer Parcial.
 
 ## Semana 7
