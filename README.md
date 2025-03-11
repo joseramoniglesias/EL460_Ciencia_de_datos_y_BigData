@@ -126,7 +126,8 @@
 ### Clase 26 Sab. 17-May 2025:
 * Taller y ejercicios en clase [PDF]
 
-## Semana 14 Vie. 23-May 2025:
+## Semana 14 
+### Clase 27 Vie. 23-May 2025:
 * Aprendizaje Supervisado II [PPTX]
 * Trabajo en clase [Python]
 
