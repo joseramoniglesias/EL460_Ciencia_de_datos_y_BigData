@@ -59,6 +59,8 @@
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_2/blob/main/Clases/Cap%C3%ADtulo_02/Pit%C3%B3n/CIED2_Combinacion_por_coordenadas_%5BOpcional%5D_.ipynb)
  
 ### Clase 10 Sab 13-Sep 2025:
+* Exploración Curación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap03_An%C3%A1lisis_y_Curaci%C3%B3n_Datos/Presentaciones/EL460_03_Exploracion_curacion_2025.pdf)
+* Regularización-Optimización Featring [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap03_An%C3%A1lisis_y_Curaci%C3%B3n_Datos/Presentaciones/EL460_Chapter6_clase9_ml.pdf)
 * Taller y ejercicios en clase [PDF]
 * Trabajo en clase [Python]
 
@@ -71,8 +73,8 @@
 
 ## Semana 7
 ### Clase 13 Vie 26-Sep 2025:
-* Introducción a Aprendizaje NO Supervisado [PPTX]
-* Sistemas de Recomendación [PPTX]
+* Introducción a Aprendizaje NO Supervisado [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_03_Introducci%C3%B3n%20a%20Aprendizaje%20NO%20Supervisado.pdf)
+* Sistemas de Recomendación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_03_Sistemas%20de%20Recomendaci%C3%B3n.pdf)
 * Trabajo en clase [Python]
 
 ### Clase 14 Sab 27-Sep 2025:
@@ -80,7 +82,7 @@
 
 ## Semana 8
 ### Clase 15 Vier 3-Oct 2025:
-* Aprendizaje Semi-supervisado [PPTX]
+* Aprendizaje Semi-supervisado [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_Semi-supervisado.pdf)
 * Trabajo en clase [Python]
 
 ### Clase 16 Sab 4-Oct 2025:
@@ -88,8 +90,8 @@
 
 ## Semana 9
 ### Clase 17 Vie 10-Oct 2025:
-* Embeddings [PPTX]
-* Reglas de Asociacion [PPTX]
+* Embeddings [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_Embeddings.pdf)
+* Reglas de Asociacion [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_Association%20Rules.pdf)
 * Trabajo en clase [Python]
 
 ### Clase 18 Sab 11-Oct 2025:
@@ -97,7 +99,7 @@
  
 ## Semana 10
 ### Clase 19 Vie 17-Oct 2025:
-* Análisis de Redes Sociales [PPTX]
+* Análisis de Redes Sociales [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_03_An%C3%A1lisis%20de%20Redes%20Sociales.pdf)
 * Trabajo en clase [Python]
 
 ### Clase 20 Sab. 18-Oct 2025:
@@ -112,7 +114,9 @@
 
 ## Semana 12
 ### Clase 23 Vie. 31-Oct 2025:
-* Clustering. [PPTX]
+* Clustering Introducción [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_7_Clustering_Intro.pdf)
+* Clustering 1 [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_7_Clustering_1.pdf)
+* Clustering 2 [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_7_Clustering_2.pdf)
 * Trabajo en clase [Python]
 * 
 ### Clase 24 Sab. 1-Nov 2025:
@@ -120,7 +124,7 @@
 
 ## Semana 13
 ### Clase 25 Vie. 7-Nov 2025:
-* Aprendizaje Supervisado I [PPTX]
+* Aprendizaje Supervisado I [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_04_Aprendizaje-Supervisado-Clase-I.pdf)
 * Trabajo en clase [Python]
 
 ### Clase 26 Sab. 8-Nov 2025:
