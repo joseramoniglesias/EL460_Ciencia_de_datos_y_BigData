@@ -1,6 +1,7 @@
-# Electiva-EL460 Ciencia de datos y BigData 20266-1
+# Electiva-EL460 Ciencia de datos y BigData 2026-1
 ## Planificación del Curso por Días
 
+# Capítulo I
 ## Semana 1
 ### Clase 01 Vi 13-Feb 2026:
 * 01. Programa del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_Datos_2/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
