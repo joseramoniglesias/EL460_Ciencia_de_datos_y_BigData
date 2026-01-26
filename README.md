@@ -1,7 +1,7 @@
 # Electiva-EL460 Ciencia de datos y BigData 2026-1
 ## Planificación del Curso por Días
 
-# Capítulo I
+# Capítulo I Introducción a la Ciencia de Datos
 ## Semana 1
 ### Clase 01 Vi 13-Feb 2026:
 * 01. Programa del Curso [PDF](https://github.com/joseramoniglesias/EL460_Ciencia_de_Datos_2/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
@@ -18,10 +18,10 @@
 * 2.4 Curso Abierto [Videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 * 2.5 BigData hdf5 código enla carpeta notebook
 
-# Capítulo II
+# Capítulo II Análisis y Visualización de Datos
 ## Semana 2
 ### Clase 3 Vie 20-Feb 2026:
-* 3.1-Probabilidad y Estadísrica [PPT]()
+* 3.1-Probabilidad y Estadística [PPT]()
 * 3.2 Datos y Modelos [PPTX]()
 * 3.3 Códigos en la Carpeta notebook
 
@@ -35,7 +35,8 @@
 * 4.2 Estadísticos y Estadística [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_01_Estad%C3%ADsticos_y_Estad%C3%ADstica_2025.pdf)
 * 4.3 Estimación [](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap_02_An%C3%A1lisis_y_visualizacion_datos/Presentaciones/EL460_01_Estimaci%C3%B3n_2025.pdf)
 * 4.4 Códigos en la Carpeta Notebook
-  
+
+# Capítulo III Análisis y Curación de Datos  
 ### Clase 6 Sáb 28-Feb 2026:
 * 4.5 Tipos de Datos y Operaciones para Curación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap03_An%C3%A1lisis_y_Curaci%C3%B3n_Datos/Presentaciones/EL460_02_Tipos_datos_y_operaciones_para_curaci%C3%B3n_2025.pdf)
 * 4.6 Datos Faltantes [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap03_An%C3%A1lisis_y_Curaci%C3%B3n_Datos/Presentaciones/EL460_02_Datos_faltantes_2025.pdf)
@@ -73,9 +74,10 @@
 ### Clase 12 Sab 21-Mar-2026:
 * Primer Parcial.
 
+# Capítulo IV Introucción al Aprendizaje Autmático
 ## Semana 7
 ### Clase 13 Vie 27-Mar 2026:
-* Introducción a Aprendizaje NO Supervisado [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_03_Introducci%C3%B3n%20a%20Aprendizaje%20NO%20Supervisado.pdf)
+* Introducción al Aprendizaje Automático [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_03_Introducci%C3%B3n%20a%20Aprendizaje%20NO%20Supervisado.pdf)
 * Sistemas de Recomendación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_03_Sistemas%20de%20Recomendaci%C3%B3n.pdf)
 * Trabajo en clase [Python]
 
