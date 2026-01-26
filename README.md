@@ -18,6 +18,7 @@
 * 2.4 Curso Abierto [Videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 * 2.5 BigData hdf5 código enla carpeta notebook
 
+# Capítulo II
 ## Semana 2
 ### Clase 3 Vie 20-Feb 2026:
 * 3.1-Probabilidad y Estadísrica [PPT]()
