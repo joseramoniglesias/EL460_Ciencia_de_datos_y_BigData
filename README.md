@@ -84,7 +84,7 @@
 
 ## Semana 8
 ### Clase 15 Vier 10-Abr 2026:
-* Aprendizaje Semi-supervisado [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Aprendizaje_Automatico/Presentaciones/EL460_Semi-supervisado.pdf)
+* Aprendizaje Semi-supervisado [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Aprendizazje_Autom%C3%A1tico/Presentaciones/EL460_Semi-supervisado.pdf))
 * Trabajo en clase [Python]
 
 ### Clase 16 Sab 11-Abr 2026:
@@ -92,8 +92,8 @@
 
 ## Semana 9
 ### Clase 17 Vie 17-Abr 2026:
-* Embeddings [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Aprendizaje_Automatico/Presentaciones/EL460_Embeddings.pdf)
-* Reglas de Asociacion [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Aprendizaje_Automatico/Presentaciones/EL460_Association%20Rules.pdf)
+* Embeddings [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Aprendizazje_Autom%C3%A1tico/Presentaciones/EL460_Embeddings.pdf)
+* Reglas de Asociacion [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Aprendizazje_Autom%C3%A1tico/Presentaciones/EL460_Association%20Rules.pdf)
 * Trabajo en clase [Python]
 
 ### Clase 18 Sab 18-Abr 2026:
@@ -101,7 +101,7 @@
  
 ## Semana 10
 ### Clase 19 Vie 24-Abr 2026:
-* Análisis de Redes Sociales [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Aprendizaje_Automatico/Presentaciones/EL460_03_An%C3%A1lisis%20de%20Redes%20Sociales.pdf)
+* Análisis de Redes Sociales [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Aprendizazje_Autom%C3%A1tico/Presentaciones/EL460_03_An%C3%A1lisis%20de%20Redes%20Sociales.pdf)
 * Trabajo en clase [Python]
 
 ### Clase 20 Sab. 25-Abr 2026:
