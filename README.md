@@ -128,31 +128,31 @@
 # Capítulo V Sistemas Supervisados
 ## Semana 13
 ### Clase 25 Vie. 22-May 2026:
-* Aprendizaje Supervisado I [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_04_Aprendizaje-Supervisado-Clase-I.pdf)
+* Aprendizaje Supervisado I [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap05_Aprendizaje_Supervisado/Presentaciones/EL460_AprendizajeSupervisado_I_2026.pdf)
 * Trabajo en clase [Python]
 
 ### Clase 26 Sab. 23-May 2026:
-* Taller y ejercicios en clase [PDF]
+* Taller y ejercicios en clase [NoteBook en Pyton]
 
 ## Semana 14 
 ### Clase 27 Vie. 29-May 2026:
-* Aprendizaje Supervisado II [PPTX]
+* Aprendizaje Supervisado II [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap05_Aprendizaje_Supervisado/Presentaciones/EL460_AprendizajeSupervisado_II_2026.pdf)
 * Trabajo en clase [Python]
 
 ### Clase 28 Sab. 30-May 2026:
-* Taller y ejercicios en clase [PDF]
+* Taller y ejercicios en clase [NoteBook en Python]
 
 ## Semana 15
 ### Clase 29 Vie. 5-Jun 2026:
-* Aprendizaje Supervisado III [PPTX]
+* Aprendizaje Supervisado III [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap05_Aprendizaje_Supervisado/Presentaciones/EL460_AprendizajeSupervisado_III_2026.pdf)
 * Trabajo en clase [Python]
 *
 ### Clase 30 Sab. 6-Jun 2026:
-* Taller y ejercicios en clase [PDF]
+* Taller y ejercicios en clase [NoteBook en Python]
 
 ## Semana 16
 ### Clase 31 Vie. 12-Jun 2026:
-* Aprendizaje Supervisado IV [PPTX]
+* Aprendizaje Supervisado IV [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap05_Aprendizaje_Supervisado/Presentaciones/EL460_AprendizajeSupervisado_IV_2026.pdf)
 * Trabajo en clase
 
 ### Clase 32 Sab. 13-Jun-2026:
