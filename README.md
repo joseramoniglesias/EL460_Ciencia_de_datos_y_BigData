@@ -74,15 +74,13 @@
 ### Clase 12 Sab 21-Mar-2026:
 * Primer Parcial.
 
-# Capítulo IV Introucción al Aprendizaje Autmático
+# Capítulo IV Introucción al Aprendizaje Automático
 ## Semana 7
 ### Clase 13 Vie 27-Mar 2026:
-* Introducción al Aprendizaje Automático [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_03_Introducci%C3%B3n%20a%20Aprendizaje%20NO%20Supervisado.pdf)
-* Sistemas de Recomendación [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_03_Sistemas%20de%20Recomendaci%C3%B3n.pdf)
-* Trabajo en clase [Python]
+* Explicaciones en clase sobre Regresión, y Regresión Logística, Perceptrón, Selección de Modelos etc [Python]
 
 ### Clase 14 Sab 28-Mar 2026:
-* Taller y ejercicios en clase [PDF] 
+* Taller y ejercicios en clase [NoteBook] 
 
 ## Semana 8
 ### Clase 15 Vier 10-Abr 2026:
@@ -116,6 +114,7 @@
 ### Clase 22 Sab. 9-May 2026:
 * Segundo Parcial.
 
+# Capítulo VI Sistemas No Supervisados
 ## Semana 12
 ### Clase 23 Vie. 15-May 2026:
 * Clustering Introducción [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_7_Clustering_Intro.pdf)
@@ -126,6 +125,7 @@
 ### Clase 24 Sab. 16-May 2026:
 * Taller y ejercicios en clase [PDF]
 
+# Capítulo V Sistemas Supervisados
 ## Semana 13
 ### Clase 25 Vie. 22-May 2026:
 * Aprendizaje Supervisado I [PPTX](https://github.com/joseramoniglesias/EL460_Ciencia_de_datos_y_BigData/blob/main/Clases/Cap04_Introduccion_Aprendizaje_Automatico/Presentaciones/EL460_04_Aprendizaje-Supervisado-Clase-I.pdf)
